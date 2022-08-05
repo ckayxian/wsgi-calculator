@@ -6,6 +6,6 @@ You'll use the calculator by visiting an address like: [http://localhost:8080/m
 
 ## Try it out
 
-The index page at the address http://localhost:8080/ would show you text instructions that explain how to use the site.
+The index page at the address http://localhost:8080/  would show you text instructions that explain how to use the site.
 
 There is also a set of tests for you to run, using `python tests.py`.
