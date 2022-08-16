@@ -2,6 +2,13 @@
 
 The WSGI calculator that you can use to add, subtract, multiply, or divide two numbers.
 
+## Overview
+The WSGI calculator can perform following operations:
+  * Addition
+  * Subtractions
+  * Multiplication
+  * Division
+
 You'll use the calculator by visiting an address like: [http://localhost:8080/multiply/3/5](http://localhost:8080/multiply/3/5), then you would expect to see a page in your browser with the text "15".
 
 ## Try it out
